@@ -33,7 +33,7 @@ async function renderData() {
             labels: ubicaciones,
             datasets: [
                 {
-                    label: "Temperaturas Mayores a 10°C",
+                    label: "Temperatura Mayores",
                     data: temperaturas,
                     borderWidth: 1,
                     backgroundColor: backgroundColors,
